@@ -1,6 +1,8 @@
 RevToolz Lite - Car Packer (Free Version)
 =========================================
 
+Virus Check: https://online834.drweb.com/cache/?i=921bd302d03622fa0f4edcaba19805f8
+
 📦 What This Tool Does:
 This is a lightweight tool that lets you quickly pack multiple FiveM vehicles into a single resource folder — ready to drag and drop into your server.
 
